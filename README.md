@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engskie09)](https://github.com/engskie09/github-readme-stats)
+- 💻 I’m currently Using these tech-stacks
+[![typescript]([https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png))](https://www.typescriptlang.org/)
+
+- 
+![engskie09's Stats](https://github-readme-stats.vercel.app/api?username=engskie09&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+![engskie09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=engskie09&theme=prussian&hide_border=false)
+![engskie09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engskie09&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **engskie09/engskie09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
